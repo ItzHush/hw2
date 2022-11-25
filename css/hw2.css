@@ -7,12 +7,12 @@
     border:3ch;
     border-collapse: collapse;
     font-size: 18px;
-    font-family: '��Բ';
+    font-family: 'Ó×Ô²';
 }
 table caption{
     font-size: 30px;
     margin: 1em 0;  
-    font-family:'��Բ';
+    font-family:'Ó×Ô²';
     font-weight: bold;
     color: rgb(18, 0, 105);
 }
@@ -65,8 +65,8 @@ table tfoot tr td{
     border-left: 2px solid rgba(173, 173, 173, 0.651);
     border-bottom: 2px solid rgba(209, 209, 209, 0.664);
     border-right: 2px solid rgba(255, 255, 255, 0.692);
-    backdrop-filter: blur(20px);
-    background: rgba(202,158,174, 0.5);
+    backdrop-filter: blur(10px);
+    background: rgba(202,158,174, 0.25);
 }
 .zt{
     margin: auto;
